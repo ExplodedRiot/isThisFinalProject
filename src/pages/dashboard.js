@@ -183,28 +183,22 @@ export default class Dashboard extends Component {
                                                 <td>300.000</td>
                                             </tr>
                                             <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
+                                                <td>Ngk G-Power Cr8Egp</td>
                                                 <td>Spark Plug</td>
-                                                <td>DENSO</td>
-                                                <td>105.000</td>
+                                                <td>NGK</td>
+                                                <td>37.000</td>
                                             </tr>
                                             <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
+                                                <td>Iridium Power IK Series (Spark Plug) IKH24</td>
                                                 <td>Spark Plug</td>
                                                 <td>DENSO</td>
-                                                <td>105.000</td>
+                                                <td>119.880</td>
                                             </tr>
                                             <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
+                                                <td>Xeon Fi Asli DENSO IU20</td>
                                                 <td>Spark Plug</td>
-                                                <td>DENSO</td>
-                                                <td>105.000</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Spark Plug</td>
-                                                <td>DENSO</td>
-                                                <td>105.000</td>
+                                                <td>YAMAHA</td>
+                                                <td>113.000</td>
                                             </tr>
                                             <tr>
                                                 <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
@@ -213,68 +207,74 @@ export default class Dashboard extends Component {
                                                 <td>105.000</td>
                                             </tr>
                                             <tr>
+                                                <td>GS ASTRA AKI Mobil Hybrid GSHY-NS40ZL</td>
+                                                <td>Car Battery</td>
+                                                <td>GS Astra</td>
+                                                <td>819.180</td>
+                                            </tr>
+                                            <tr>
+                                                <td>SM 55D23L 60Ah</td>
+                                                <td>Car Battery</td>
+                                                <td>BOSCH</td>
+                                                <td>1.198.800</td>
+                                            </tr>
+                                            <tr>
+                                                <td>INCOE Deep Cycle Premium N100T 12Aki Incoe 12V 100Ah</td>
+                                                <td>Car Battery</td>
+                                                <td>INCOE</td>
+                                                <td>1.570.000</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Amaron Aki Mobil Hi Life 55B24R 45Ah</td>
+                                                <td>Car Battery</td>
+                                                <td>Amaron</td>
+                                                <td>1.028.000</td>
+                                            </tr>
+                                            <tr>
                                                 <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Air Filter</td>
+                                                <td>AC Filter</td>
                                                 <td>DENSO</td>
                                                 <td>105.000</td>
                                             </tr>
                                             <tr>
                                                 <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Air Filter</td>
+                                                <td>AC Filter</td>
                                                 <td>DENSO</td>
                                                 <td>105.000</td>
                                             </tr>
                                             <tr>
                                                 <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Air Filter</td>
+                                                <td>AC Filter</td>
                                                 <td>DENSO</td>
                                                 <td>105.000</td>
                                             </tr>
                                             <tr>
                                                 <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Air Filter</td>
+                                                <td>AC Filter</td>
                                                 <td>DENSO</td>
                                                 <td>105.000</td>
                                             </tr>
                                             <tr>
                                                 <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Air Filter</td>
+                                                <td>Car Accesories</td>
                                                 <td>DENSO</td>
                                                 <td>105.000</td>
                                             </tr>
                                             <tr>
                                                 <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Air Filter</td>
+                                                <td>Car Accesories</td>
                                                 <td>DENSO</td>
                                                 <td>105.000</td>
                                             </tr>
                                             <tr>
                                                 <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Air Filter</td>
+                                                <td>Car Accesories</td>
                                                 <td>DENSO</td>
                                                 <td>105.000</td>
                                             </tr>
                                             <tr>
                                                 <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Air Filter</td>
-                                                <td>DENSO</td>
-                                                <td>105.000</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Air Filter</td>
-                                                <td>DENSO</td>
-                                                <td>105.000</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Air Filter</td>
-                                                <td>DENSO</td>
-                                                <td>105.000</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
-                                                <td>Air Filter</td>
+                                                <td>Car Accesories</td>
                                                 <td>DENSO</td>
                                                 <td>105.000</td>
                                             </tr>
