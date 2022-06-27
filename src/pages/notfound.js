@@ -31,7 +31,7 @@ class NotFound extends Component {
                         <footer className="sticky-footer">
                             <div className="container my-auto">
                                 <div className="copyright text-center my-auto">
-                                    <span>Copyright © Your Website <div>{(new Date().getFullYear())}</div></span>
+                                    <span>Copyright © Pemuda Framework 2022</div></span>
                                 </div>
                             </div>
                         </footer>

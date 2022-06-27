@@ -28,7 +28,7 @@ export default class Header extends Component {
             <nav className="navbar navbar-expand navbar-dark bg-dark static-top">
                 <TitleComponent title="React CRUD Login "></TitleComponent>
 
-                <Link to={'/'} className="navbar-brand mr-1">Start Bootstrap</Link>
+                <Link to={'/'} className="navbar-brand mr-1">Infokan Spare Part</Link>
 
                 <button className="btn btn-link btn-sm text-white order-1 order-sm-0" id="sidebarToggle">
                     <i className="fas fa-bars"></i>

@@ -8,7 +8,7 @@ export default class Sidebar extends Component {
                 <ul className="sidebar navbar-nav">
                     <li className="nav-item active">
                         <Link to={'/dashboard'} className="nav-link"><i className="fas fa-fw fa-tachometer-alt"></i>
-                            <span>&nbsp;Dashboard</span></Link>
+                            <span>&nbsp;Spare Part List</span></Link>
                     </li>
                     <li className="nav-item dropdown">
                         <Link className="nav-link dropdown-toggle" to={''}  id="pagesDropdown" role="button"
@@ -29,7 +29,7 @@ export default class Sidebar extends Component {
                     </li>
                     <li className="nav-item">
                         <Link to={'/index'} className="nav-link"><i className="fas fa-fw fa-chart-area"></i>
-                            <span>&nbsp;CRUD App</span></Link>
+                            <span>&nbsp;Employee List</span></Link>
                     </li>
                     <li className="nav-item">
                         <Link to={'/fileupload'} className="nav-link"><i className="fas fa-fw fa-file-archive"></i>
