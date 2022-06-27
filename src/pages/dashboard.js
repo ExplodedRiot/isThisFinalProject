@@ -233,50 +233,50 @@ export default class Dashboard extends Component {
                                             <tr>
                                                 <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
                                                 <td>AC Filter</td>
-                                                <td>DENSO</td>
+                                                <td>GS Astra</td>
                                                 <td>105.000</td>
                                             </tr>
                                             <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
+                                                <td>Denso AC Filter</td>
                                                 <td>AC Filter</td>
                                                 <td>DENSO</td>
-                                                <td>105.000</td>
+                                                <td>50.000</td>
                                             </tr>
                                             <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
+                                                <td>Ken AC Filter</td>
                                                 <td>AC Filter</td>
                                                 <td>DENSO</td>
-                                                <td>105.000</td>
+                                                <td>60.000</td>
                                             </tr>
                                             <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
+                                                <td>Sakura AC Filter</td>
                                                 <td>AC Filter</td>
-                                                <td>DENSO</td>
-                                                <td>105.000</td>
+                                                <td>Sakura</td>
+                                                <td>91.020</td>
                                             </tr>
                                             <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
+                                                <td>Gantungan Spion Mobil Liontin Gold</td>
                                                 <td>Car Accesories</td>
-                                                <td>DENSO</td>
-                                                <td>105.000</td>
+                                                <td>China</td>
+                                                <td>89.000</td>
                                             </tr>
                                             <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
+                                                <td>Tas Gantung Organizer Jok Mobil</td>
                                                 <td>Car Accesories</td>
-                                                <td>DENSO</td>
-                                                <td>105.000</td>
+                                                <td>China</td>
+                                                <td>60.750</td>
                                             </tr>
                                             <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
+                                                <td>Tas Mobil Multifungsi</td>
                                                 <td>Car Accesories</td>
-                                                <td>DENSO</td>
-                                                <td>105.000</td>
+                                                <td>Mloes Store</td>
+                                                <td>49.000</td>
                                             </tr>
                                             <tr>
-                                                <td>Iridium HONDA Vario 110cc (Karbu / Fi ESP)</td>
+                                                <td>Meja Lipat Komputer</td>
                                                 <td>Car Accesories</td>
-                                                <td>DENSO</td>
-                                                <td>105.000</td>
+                                                <td>EasyTour</td>
+                                                <td></td>
                                             </tr>
                                             </tbody>
                                         </table>
