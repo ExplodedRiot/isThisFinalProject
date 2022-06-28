@@ -75,7 +75,7 @@ export default class Register extends Component {
                                     <input id="inputEmail" className={"form-control " + (this.state.authError ? 'is-invalid' : '')} placeholder="Email address" type="text" name="email" onChange={this.handleEmailChange} autoFocus required/>
                                     <label htmlFor="inputEmail">Email address</label>
                                     <div className="invalid-feedback">
-                                        Please provide a valid Email. or Email Exis
+                                        Please provide a valid Email. or Email Already Exist
                                     </div>
                                 </div>
                             </div>
@@ -97,7 +97,7 @@ export default class Register extends Component {
                             </div>
                         </form>
                         <div className="text-center">
-                            <Link className="d-block small mt-3" to={''}>Login Your Account</Link>
+                            <Link className="d-block small mt-3" to={''}>Login to Your Account</Link>
                             <Link className="d-block small" to={'#'}>Forgot Password?</Link>
                         </div>
                     </div>
