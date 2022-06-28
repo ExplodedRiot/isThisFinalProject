@@ -25,7 +25,7 @@ export default class Header extends Component {
             return <Redirect to='/' />
         }
         return (
-            <nav className="navbar navbar-expand navbar-dark bg-dark static-top">
+            <nav className="navbar navbar-expand navbar-dark bg-info static-top">
                 <TitleComponent title="React CRUD Login "></TitleComponent>
 
                 <Link to={'/'} className="navbar-brand mr-1">Infokan Spare Part</Link>
